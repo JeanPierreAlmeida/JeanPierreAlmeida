@@ -2,8 +2,8 @@
 
 ____________________________________________________________________________________________________________________________________________________________
 
-<p style="display= flex, justify-items=space-around, align-items=center"  >
-  <a width="" href="hhttps://github.com/anuraghazra/github-readme-stats">
+<p align="center" style="display= flex, justify-items=space-around, align-items=center"  >
+  <a card_width="200" href="hhttps://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JeanPierreAlmeida&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues" style="max-width: 70%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
