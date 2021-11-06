@@ -2,34 +2,15 @@
 
 ____________________________________________________________________________________________________________________________________________________________
 
-<p align="center">
+<p display="flex" align="center" justify-items="space-around">
   <a href="hhttps://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeanPierreAlmeida&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues" />
-  </a> <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierreAlmeida&theme=prussian&langs_count=7&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JeanPierreAlmeida&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierreAlmeida&theme=prussian&langs_count=7&layout=compact" />
   </a>
 </p>
 
-<!--   ![Github stats](https://github-readme-stats.vercel.app/api?username=JeanPierreAlmeida&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierreAlmeida&theme=prussian&exclude_repo=HeMPS8.5_,7.3_temperatura&hide=Yacc,Makefile,Tcl,Lex,css&langs_count=7&layout=compact)](https://github.com/JeanPierreAlmeida/github-readme-stats)
--->
-<!--
-[![card](https://github-readme-stats.vercel.app/api?username=JeanPierreAlmeida&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues)](https://github.com/JeanPierreAlmeida)
-  -->
-
-<!--&custom_title=Top's github stats
-**JeanPierreAlmeida/JeanPierreAlmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ___________________________________________________________________________________________________________________________________________________________________
 ## Linguagens e Ferramentas:
 <p align="center">
