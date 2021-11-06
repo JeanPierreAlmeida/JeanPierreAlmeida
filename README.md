@@ -3,11 +3,11 @@
 ____________________________________________________________________________________________________________________________________________________________
 
 <p align="center" >
-  <a card_width="200" href="hhttps://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JeanPierreAlmeida&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues&layout=compact" />
+  <a href="hhttps://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=JeanPierreAlmeida&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues&layout=compact" height="150px"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierreAlmeida&theme=prussian&langs_count=7&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierreAlmeida&theme=prussian&langs_count=7&layout=compact" height="150px" />
   </a>
 </p>
 
