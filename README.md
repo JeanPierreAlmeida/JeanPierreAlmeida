@@ -2,9 +2,9 @@
 
 ____________________________________________________________________________________________________________________________________________________________
 
-<p display="flex" align="center" justify-items="space-around">
+<p style="display= flex, justify-items=space-around, align-items=center"  >
   <a width="" href="hhttps://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=JeanPierreAlmeida&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues" style="max-width: 70%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=JeanPierreAlmeida&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues" style="max-width: 70%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanPierreAlmeida&theme=prussian&langs_count=7&layout=compact" />
