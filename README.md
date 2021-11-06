@@ -14,7 +14,7 @@ ________________________________________________________________________________
 ___________________________________________________________________________________________________________________________________________________________________
 ## Linguagens e Ferramentas:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"  alt="Java" style="max-width:100%;" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg"  alt="Java" style="max-width:100%; margin-right:50%"  height="40">
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  alt="javascript" style="max-width:100%;" height="40">
 
