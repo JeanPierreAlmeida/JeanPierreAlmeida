@@ -3,7 +3,7 @@
 ____________________________________________________________________________________________________________________________________________________________
 
 <p display="flex" align="center" justify-items="space-around">
-  <a href="hhttps://github.com/anuraghazra/github-readme-stats">
+  <a width="" href="hhttps://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=JeanPierreAlmeida&theme=prussian&show_icons=true&custom_title=GitHub%20Stats&hide=issues" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
